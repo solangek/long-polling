@@ -13,7 +13,7 @@ import static java.lang.String.format;
 /**
  * Long polling controller example. Source: https://github.com/eugenp/tutorials/tree/master/spring-web-modules/spring-rest-http-2
  *
- * try with postman: http://localhost:8080/api/bake/cookie?bakeTime=5000
+ * try with postman: http://localhost:8080/api/bake/cookie
  */
 @RestController
 @RequestMapping("/api")
